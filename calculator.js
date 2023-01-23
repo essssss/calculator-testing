@@ -30,7 +30,6 @@ function setupIntialValues() {
 // Get the current values from the UI
 // Update the monthly payment
 function update() {
-  // getCurrentUIValues();
   updateMonthly();
 }
 
